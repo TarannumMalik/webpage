@@ -1,0 +1,26 @@
+section main .image img {
+    margin-top: 60px;
+    margin-right: -438px;
+    box-shadow: 0 0 4px rgba(0,0,0.5);
+}
+.about img {
+    margin-left: 457px;
+}
+.about h1{
+    margin-left: 270px;
+}
+.about p {
+    margin-left: 217px;
+    margin-right: -278px;
+}
+.product {
+    margin-top: 160px;
+    margin-left: 218px;
+    margin-right: -268px;
+}
+.service {
+    margin-left: 465px;
+}
+.contact h1 {
+    margin-left: 218px;
+}
