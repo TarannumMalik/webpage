@@ -1,0 +1,41 @@
+section header {
+    width: 1332px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(128, 128, 128, 0.594);
+    height: 60px;
+    box-shadow: 0 0 10px rgba(0,0,0.5);
+}
+section main .image img {
+    margin-top: 60px;
+    margin-right: -270px;
+    box-shadow: 0 0 4px rgba(0,0,0.5);
+}
+section main {
+    margin-left: 78px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.about img{
+    margin-left: 300px;
+}
+.about h1{
+    margin-left: 200px;
+}
+.about p {
+    margin-left: 156px;
+    margin-right: -130px;
+}
+.product {
+    margin-top: 160px;
+    margin-left: 148px;
+    margin-right: -68px;
+}
+.service{
+    margin-left: 300px;
+}
+.contact h1{
+    margin-left: 220px;
+}
